@@ -1,2 +1,2 @@
-# LinuxCleaner
-Script for clean GNU/Linux traces. 
+# Linux Cleaner
+Anti-Forensic Script for clean GNU/Linux traces. 
